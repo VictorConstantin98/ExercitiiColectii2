@@ -1,0 +1,15 @@
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\bin\Debug\net6.0\ExercitiiColectii2.exe
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\bin\Debug\net6.0\ExercitiiColectii2.deps.json
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\bin\Debug\net6.0\ExercitiiColectii2.runtimeconfig.json
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\bin\Debug\net6.0\ExercitiiColectii2.dll
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\bin\Debug\net6.0\ref\ExercitiiColectii2.dll
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\bin\Debug\net6.0\ExercitiiColectii2.pdb
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\obj\Debug\net6.0\ExercitiiColectii2.csproj.AssemblyReference.cache
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\obj\Debug\net6.0\ExercitiiColectii2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\obj\Debug\net6.0\ExercitiiColectii2.AssemblyInfoInputs.cache
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\obj\Debug\net6.0\ExercitiiColectii2.AssemblyInfo.cs
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\obj\Debug\net6.0\ExercitiiColectii2.csproj.CoreCompileInputs.cache
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\obj\Debug\net6.0\ExercitiiColectii2.dll
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\obj\Debug\net6.0\ref\ExercitiiColectii2.dll
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\obj\Debug\net6.0\ExercitiiColectii2.pdb
+C:\Users\Costi\source\repos\ExercitiiColectii2\ExercitiiColectii2\obj\Debug\net6.0\ExercitiiColectii2.genruntimeconfig.cache
